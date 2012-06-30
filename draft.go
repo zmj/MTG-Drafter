@@ -1,54 +1,63 @@
 package main
 
-import (
-    "io"    
-    "code.google.com/p/go.net/websocket"
-    "html/template"
-    "math/rand"
-    "fmt"
-)
+type DraftTable struct {
 
-var (
-    activeDraftTmpl, _ = template.ParseFiles("activeDraft.tmpl")
-)
-
-type Draft struct {
-    Id string
-    Format string
-    Private bool
 }
 
-func GetDraftId() string {
-    id := rand.Int63n(1e10)
-    return fmt.Sprintf("%010d", id)
+func (d *DraftTable) GetLeftSeat(seatIndex int) *DraftSeat {
+	//"left" is -1
+	left := seatIndex - 1
+	if left < 0 {
+		left += len(d.Seats)
+	}
+	return d.Seats[left]
 }
 
-func NewDraft(format string, private bool) *Draft {
-    id := GetDraftId()
-    fmt.Println("New draft", id)
-    return &Draft{ id, format, private }
+func (d *DraftTable) GetRightSeat(seatIndex int) *DraftSeat {
+	//"right" is +1
+	right := seatIndex + 1
+	right = right % len(d.Seats)
+	return d.Seats[right]
 }
 
-func (d *Draft) WriteTo(w io.Writer) (int64, error) {
-    err := activeDraftTmpl.Execute(w, d)
-    if err != nil {
-        return 0, err
-    }
-    return 0, nil
+func (d *DraftTable) DealPacks() {
+	for r:=0; r<d.Format.NumRounds; r++ {
+		for i,seat := range d.Seats {
+			round := new(Round)
+			round.Number = r
+			round.Pack = d.Format.GeneratePack(r)
+			if r%2 == 0 { 
+				round.PassTo = d.GetLeftSeat(i).Packs
+				round.ReceiveFrom = d.GetRightSeat(i).Packs
+			} else {
+				round.PassTo = d.GetRightSeat(i).Packs
+				round.ReceiveFrom = d.GetLeftSeat(i).Packs
+			}
+			seat.Rounds <- round
+		}
+	}
+
+	for _,seat := range d.Seats {
+		close(seat.Rounds)
+	}
 }
 
-type WsMessageIn struct {
-    Msg string
-    DraftId string //msg == 'join'
-}
+func (d *DraftTable) RunDraft() { 
+	finished := 0
+	for {
+		select {
+		case pick := <-d.Picks:
+			player := d.Log.Players[pick.SeatNum]
+			player.Picks = append(player.Picks, pick)
+		case <-d.Finished:
+			finished += 1
+		}
 
-type WsMessageOut struct {
-    Msg string
-}
-
-func (d *Draft) AddPlayer(ws *websocket.Conn) {
-    websocket.JSON.Send(ws, WsMessageOut{ "greetings, earthling" } )
-    for {
-
-    }
+		if finished == len(d.Seats) {
+			break
+		}
+	}
+	close(d.Picks)
+	close(d.Finished)
+	//any other cleanup to do?
 }
