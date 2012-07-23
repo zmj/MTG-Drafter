@@ -1,0 +1,21 @@
+.cardImage {
+	width: 11.4%;
+	border-style: solid;
+	border-color: black;
+	border-width: medium;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+body {
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
+#pack {
+	display: none;
+}
+
+#deck {
+	display: none;
+}
