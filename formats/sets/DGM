@@ -1,0 +1,1018 @@
+{
+	"Name": "DGM",
+	"Collation": [
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Uncommon": 1 },
+		{ "Uncommon": 1 },
+		{ "Uncommon": 1 },
+		{ "Rare": 7, "Mythic Rare": 1 },
+		{ "Gate": 10, "Gate Rare": 1 }
+	],
+	"Cards": [
+		{
+			"Name": "Boros Mastiff",
+			"CastingCost": "1W",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Haazda Snare Squad",
+			"CastingCost": "2W",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Lyev Decree",
+			"CastingCost": "1W",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Maze Sentinel",
+			"CastingCost": "5W",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Renounce the Guilds",
+			"CastingCost": "1W",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Riot Control",
+			"CastingCost": "2W",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Scion of Vitu-Ghazi",
+			"CastingCost": "3WW",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Steeple Roc",
+			"CastingCost": "4W",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Sunspire Gatekeepers",
+			"CastingCost": "3W",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Wake the Reflections",
+			"CastingCost": "W",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Ætherling",
+			"CastingCost": "4UU",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Hidden Strings",
+			"CastingCost": "1U",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Maze Glider",
+			"CastingCost": "5U",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Mindstatic",
+			"CastingCost": "3U",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Murmuring Phantasm",
+			"CastingCost": "1U",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Opal Lake Gatekeepers",
+			"CastingCost": "3U",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Runner's Bane",
+			"CastingCost": "1U",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Trait Doctoring",
+			"CastingCost": "U",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Uncovered Clues",
+			"CastingCost": "2U",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Wind Drake",
+			"CastingCost": "2U",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Bane Alley Blackguard",
+			"CastingCost": "1B",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Blood Scrivener",
+			"CastingCost": "1B",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Crypt Incursion",
+			"CastingCost": "2B",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Fatal Fumes",
+			"CastingCost": "3B",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Hired Torturer",
+			"CastingCost": "2B",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Maze Abomination",
+			"CastingCost": "5B",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Pontiff of Blight",
+			"CastingCost": "4BB",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Rakdos Drake",
+			"CastingCost": "2B",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Sinister Possession",
+			"CastingCost": "B",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Ubul Sar Gatekeepers",
+			"CastingCost": "3B",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Awe for the Guilds",
+			"CastingCost": "2R",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Clear a Path",
+			"CastingCost": "R",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Maze Rusher",
+			"CastingCost": "5R",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Possibility Storm",
+			"CastingCost": "3RR",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Punish the Enemy",
+			"CastingCost": "4R",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Pyrewild Shaman",
+			"CastingCost": "2R",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Riot Piker",
+			"CastingCost": "1R",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Rubblebelt Maaka",
+			"CastingCost": "3R",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Smelt-Ward Gatekeepers",
+			"CastingCost": "3R",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Weapon Surge",
+			"CastingCost": "R",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Battering Krasis",
+			"CastingCost": "2G",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Kraul Warrior",
+			"CastingCost": "1G",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Maze Behemoth",
+			"CastingCost": "5G",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Mending Touch",
+			"CastingCost": "G",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Mutant's Prey",
+			"CastingCost": "G",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Phytoburst",
+			"CastingCost": "1G",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Renegade Krasis",
+			"CastingCost": "1GG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Saruli Gatekeepers",
+			"CastingCost": "3G",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Skylasher",
+			"CastingCost": "1G",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Thrashing Mossdog",
+			"CastingCost": "3G",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Advent of the Wurm",
+			"CastingCost": "1WGG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Armored Wolf-Rider",
+			"CastingCost": "3WG",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Ascended Lawmage",
+			"CastingCost": "2WU",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Beetleform Mage",
+			"CastingCost": "1UG",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Blast of Genius",
+			"CastingCost": "4UR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Blaze Commando",
+			"CastingCost": "3WR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Blood Baron of Vizkopa",
+			"CastingCost": "3WB",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Boros Battleshaper",
+			"CastingCost": "5WR",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Bred for the Hunt",
+			"CastingCost": "1UG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Bronzebeak Moa",
+			"CastingCost": "2WG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Carnage Gladiator",
+			"CastingCost": "2BR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Council of the Absolute",
+			"CastingCost": "2WU",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Deadbridge Chant",
+			"CastingCost": "4BG",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Debt to the Deathless",
+			"CastingCost": "XWWBB",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Deputy of Acquittals",
+			"CastingCost": "WU",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Dragonshift",
+			"CastingCost": "1UR",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Drown in Filth",
+			"CastingCost": "BG",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Emmara Tandris",
+			"CastingCost": "5WG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Exava, Rakdos Blood Witch",
+			"CastingCost": "2BR",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Feral Animist",
+			"CastingCost": "1RG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Fluxcharger",
+			"CastingCost": "2UR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Gaze of Granite",
+			"CastingCost": "XBBG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Gleam of Battle",
+			"CastingCost": "4WR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Goblin Test Pilot",
+			"CastingCost": "1UR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Gruul War Chant",
+			"CastingCost": "2RG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Haunter of Nightveil",
+			"CastingCost": "3UB",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Jelenn Sphinx",
+			"CastingCost": "3WU",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Korozda Gorgon",
+			"CastingCost": "3BG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Krasis Incubation",
+			"CastingCost": "2UG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Lavinia of the Tenth",
+			"CastingCost": "3WU",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Legion's Initiative",
+			"CastingCost": "WR",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Master of Cruelties",
+			"CastingCost": "3BR",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Maw of the Obzedat",
+			"CastingCost": "3WB",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Melek, Izzet Paragon",
+			"CastingCost": "4UR",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Mirko Vosk, Mind Drinker",
+			"CastingCost": "3UB",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Morgue Burst",
+			"CastingCost": "4BR",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Nivix Cyclops",
+			"CastingCost": "1UR",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Notion Thief",
+			"CastingCost": "2UB",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Obzedat's Aid",
+			"CastingCost": "3WB",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Pilfered Plans",
+			"CastingCost": "1UB",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Plasm Capture",
+			"CastingCost": "UUGG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Progenitor Mimic",
+			"CastingCost": "4UG",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Putrefy",
+			"CastingCost": "1BG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Ral Zarek",
+			"CastingCost": "2UR",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Reap Intellect",
+			"CastingCost": "X2UB",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Render Silent",
+			"CastingCost": "WUU",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Restore the Peace",
+			"CastingCost": "1WU",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Rot Farm Skeleton",
+			"CastingCost": "2BG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Ruric Thar, the Unbowed",
+			"CastingCost": "4RG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Savageborn Hydra",
+			"CastingCost": "XRG",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Scab-Clan Giant",
+			"CastingCost": "4RG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Showstopper",
+			"CastingCost": "1BR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Sin Collector",
+			"CastingCost": "1WB",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Sire of Insanity",
+			"CastingCost": "4BR",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Species Gorger",
+			"CastingCost": "3UG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Spike Jester",
+			"CastingCost": "BR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Tajic, Blade of the Legion",
+			"CastingCost": "2WR",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Teysa, Envoy of Ghosts",
+			"CastingCost": "5WB",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Tithe Drinker",
+			"CastingCost": "WB",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Trostani's Summoner",
+			"CastingCost": "5WG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Unflinching Courage",
+			"CastingCost": "1WG",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Varolz, the Scar-Striped",
+			"CastingCost": "1BG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Viashino Firstblade",
+			"CastingCost": "1WR",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Voice of Resurgence",
+			"CastingCost": "WG",
+			"Set": "DGM",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Vorel of the Hull Clade",
+			"CastingCost": "1UG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Warleader's Helix",
+			"CastingCost": "2WR",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Warped Physique",
+			"CastingCost": "UB",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Woodlot Crawler",
+			"CastingCost": "UB",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Zhur-Taa Ancient",
+			"CastingCost": "3RG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Zhur-Taa Druid",
+			"CastingCost": "RG",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Alive // Well",
+			"CastingCost": "3G // W",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Armed // Dangerous",
+			"CastingCost": "1R // 3G",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Down // Dirty",
+			"CastingCost": "3B // 2G",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Far // Away",
+			"CastingCost": "1U // 2B",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Give // Take",
+			"CastingCost": "2G // 2U",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Profit // Loss",
+			"CastingCost": "1W // 2B",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Protect // Serve",
+			"CastingCost": "2W // 1U",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Toil // Trouble",
+			"CastingCost": "2B // 2R",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Turn // Burn",
+			"CastingCost": "2U // 1R",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Wear // Tear",
+			"CastingCost": "1R // W",
+			"Set": "DGM",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Beck // Call",
+			"CastingCost": "UG // 4UW",	
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Breaking // Entering",
+			"CastingCost": "UB // 4BR",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Catch // Release",
+			"CastingCost": "1UR // 4RW",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Flesh // Blood",
+			"CastingCost": "3BG // RG",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Ready // Willing",
+			"CastingCost": "1GW // 1WB",
+			"Set": "DGM",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Azorius Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Boros Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Dimir Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Golgari Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Gruul Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Izzet Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Orzhov Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Rakdos Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Selesnya Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Simic Cluestone",
+			"CastingCost": "3",
+			"Set": "DGM",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Azorius Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Boros Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Dimir Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Golgari Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Gruul Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Izzet Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Maze's End",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Orzhov Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Rakdos Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Selesnya Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Simic Guildgate",
+			"CastingCost": "",
+			"Set": "DGM",
+			"Rarity": "Gate"
+		},
+		{
+			"Name": "Blood Crypt",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Hallowed Fountain",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Overgrown Tomb",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Steam Vents",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Temple Garden",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Breeding Pool",
+			"CastingCost": "",
+			"Set": "GTC",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Godless Shrine",
+			"CastingCost": "",
+			"Set": "GTC",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Sacred Foundry",
+			"CastingCost": "",
+			"Set": "GTC",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Stomping Ground",
+			"CastingCost": "",
+			"Set": "GTC",
+			"Rarity": "Gate Rare"
+		},
+		{
+			"Name": "Watery Grave",
+			"CastingCost": "",
+			"Set": "GTC",
+			"Rarity": "Gate Rare"
+		}
+	]
+}

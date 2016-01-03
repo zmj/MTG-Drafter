@@ -1,0 +1,1666 @@
+{
+	"Name": "RTR",
+	"Collation": [
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Common": 1 },
+		{ "Uncommon": 1 },
+		{ "Uncommon": 1 },
+		{ "Uncommon": 1 },
+		{ "Rare": 7, "Mythic Rare": 1 },
+		{ "Land": 1 }
+	],
+	"Cards": [
+		{
+			"Name": "Angel of Serenity",
+			"CastingCost": "4WWW",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Armory Guard",
+			"CastingCost": "3W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Arrest",
+			"CastingCost": "2W",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Avenging Arrow",
+			"CastingCost": "2W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Azorius Arrester",
+			"CastingCost": "1W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Azorius Justiciar",
+			"CastingCost": "2WW",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Bazaar Krovod",
+			"CastingCost": "4W",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Concordia Pegasus",
+			"CastingCost": "1W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Ethereal Armor",
+			"CastingCost": "W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Eyes in the Skies",
+			"CastingCost": "3W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Fencing Ace",
+			"CastingCost": "1W",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Keening Apparition",
+			"CastingCost": "1W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Knightly Valor",
+			"CastingCost": "4W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Martial Law",
+			"CastingCost": "2WW",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Palisade Giant",
+			"CastingCost": "4WW",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Phantom General",
+			"CastingCost": "3W",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Precinct Captain",
+			"CastingCost": "WW",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Rest in Peace",
+			"CastingCost": "1W",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Rootborn Defenses",
+			"CastingCost": "2W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Security Blockade",
+			"CastingCost": "2W",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Selesnya Sentry",
+			"CastingCost": "2W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Seller of Songbirds",
+			"CastingCost": "2W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Soul Tithe",
+			"CastingCost": "1W",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Sphere of Safety",
+			"CastingCost": "4W",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Sunspire Griffin",
+			"CastingCost": "1WW",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Swift Justice",
+			"CastingCost": "W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Trained Caracal",
+			"CastingCost": "W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Trostani's Judgment",
+			"CastingCost": "5W",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Aquus Steed",
+			"CastingCost": "3U",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Blustersquall",
+			"CastingCost": "U",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Cancel",
+			"CastingCost": "1UU",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Chronic Flooding",
+			"CastingCost": "1U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Conjured Currency",
+			"CastingCost": "5U",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Crosstown Courier",
+			"CastingCost": "1U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Cyclonic Rift",
+			"CastingCost": "1U",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Dispel",
+			"CastingCost": "U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Doorkeeper",
+			"CastingCost": "1U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Downsize",
+			"CastingCost": "U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Faerie Impostor",
+			"CastingCost": "U",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Hover Barrier",
+			"CastingCost": "2U",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Inaction Injunction",
+			"CastingCost": "1U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Inspiration",
+			"CastingCost": "3U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Isperia's Skywatch",
+			"CastingCost": "5U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Jace, Architect of Thought",
+			"CastingCost": "2UU",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Mizzium Skin",
+			"CastingCost": "U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Paralyzing Grasp",
+			"CastingCost": "2U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Psychic Spiral",
+			"CastingCost": "4U",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Runewing",
+			"CastingCost": "3U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Search the City",
+			"CastingCost": "4U",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Skyline Predator",
+			"CastingCost": "4UU",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Soulsworn Spirit",
+			"CastingCost": "3U",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Sphinx of the Chimes",
+			"CastingCost": "4UU",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Stealer of Secrets",
+			"CastingCost": "2U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Syncopate",
+			"CastingCost": "XU",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Tower Drake",
+			"CastingCost": "2U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Voidwielder",
+			"CastingCost": "4U",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Assassin's Strike",
+			"CastingCost": "4BB",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Catacomb Slug",
+			"CastingCost": "4B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Cremate",
+			"CastingCost": "B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Daggerdrome Imp",
+			"CastingCost": "1B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Dark Revenant",
+			"CastingCost": "3B",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Dead Reveler",
+			"CastingCost": "2B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Desecration Demon",
+			"CastingCost": "2BB",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Destroy the Evidence",
+			"CastingCost": "4B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Deviant Glee",
+			"CastingCost": "B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Drainpipe Vermin",
+			"CastingCost": "B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Grave Betrayal",
+			"CastingCost": "5BB",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Grim Roustabout",
+			"CastingCost": "1B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Launch Party",
+			"CastingCost": "3B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Mind Rot",
+			"CastingCost": "2B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Necropolis Regent",
+			"CastingCost": "3BBB",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Ogre Jailbreaker",
+			"CastingCost": "3B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Pack Rat",
+			"CastingCost": "1B",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Perilous Shadow",
+			"CastingCost": "2BB",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Sewer Shambler",
+			"CastingCost": "2B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Shrieking Affliction",
+			"CastingCost": "B",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Slum Reaper",
+			"CastingCost": "3B",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Stab Wound",
+			"CastingCost": "2B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Tavern Swindler",
+			"CastingCost": "1B",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Terrus Wurm",
+			"CastingCost": "6B",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Thrill-Kill Assassin",
+			"CastingCost": "1B",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Ultimate Price",
+			"CastingCost": "1B",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Underworld Connections",
+			"CastingCost": "1BB",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Zanikev Locust",
+			"CastingCost": "5B",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Annihilating Fire",
+			"CastingCost": "1RR",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Ash Zealot",
+			"CastingCost": "RR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Batterhorn",
+			"CastingCost": "4R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Bellows Lizard",
+			"CastingCost": "R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Bloodfray Giant",
+			"CastingCost": "2RR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Chaos Imps",
+			"CastingCost": "4RR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Cobblebrute",
+			"CastingCost": "3R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Dynacharge",
+			"CastingCost": "R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Electrickery",
+			"CastingCost": "R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Explosive Impact",
+			"CastingCost": "5R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Goblin Rally",
+			"CastingCost": "3RR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Gore-House Chainwalker",
+			"CastingCost": "1R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Guild Feud",
+			"CastingCost": "5R",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Guttersnipe",
+			"CastingCost": "2R",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Lobber Crew",
+			"CastingCost": "2R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Minotaur Aggressor",
+			"CastingCost": "6R",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Mizzium Mortars",
+			"CastingCost": "1R",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Pursuit of Flight",
+			"CastingCost": "1R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Pyroconvergence",
+			"CastingCost": "4R",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Racecourse Fury",
+			"CastingCost": "R",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Splatter Thug",
+			"CastingCost": "2R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Street Spasm",
+			"CastingCost": "XR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Survey the Wreckage",
+			"CastingCost": "4R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Tenement Crasher",
+			"CastingCost": "5R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Traitorous Instinct",
+			"CastingCost": "3R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Utvara Hellkite",
+			"CastingCost": "6RR",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Vandalblast",
+			"CastingCost": "R",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Viashino Racketeer",
+			"CastingCost": "2R",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Aerial Predation",
+			"CastingCost": "2G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Archweaver",
+			"CastingCost": "5GG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Axebane Guardian",
+			"CastingCost": "2G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Axebane Stag",
+			"CastingCost": "6G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Brushstrider",
+			"CastingCost": "1G",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Centaur's Herald",
+			"CastingCost": "G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Chorus of Might",
+			"CastingCost": "3G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Deadbridge Goliath",
+			"CastingCost": "2GG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Death's Presence",
+			"CastingCost": "5G",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Drudge Beetle",
+			"CastingCost": "1G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Druid's Deliverance",
+			"CastingCost": "1G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Gatecreeper Vine",
+			"CastingCost": "1G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Giant Growth",
+			"CastingCost": "G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Gobbling Ooze",
+			"CastingCost": "4G",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Golgari Decoy",
+			"CastingCost": "3G",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Horncaller's Chant",
+			"CastingCost": "7G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Korozda Monitor",
+			"CastingCost": "2GG",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Mana Bloom",
+			"CastingCost": "XG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Oak Street Innkeeper",
+			"CastingCost": "2G",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Rubbleback Rhino",
+			"CastingCost": "4G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Savage Surge",
+			"CastingCost": "1G",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Seek the Horizon",
+			"CastingCost": "3G",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Slime Molding",
+			"CastingCost": "XG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Stonefare Crocodile",
+			"CastingCost": "2G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Towering Indrik",
+			"CastingCost": "3G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Urban Burgeoning",
+			"CastingCost": "G",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Wild Beastmaster",
+			"CastingCost": "2G",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Worldspine Wurm",
+			"CastingCost": "8GGG",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Abrupt Decay",
+			"CastingCost": "BG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Archon of the Triumvirate",
+			"CastingCost": "5WU",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Armada Wurm",
+			"CastingCost": "2WWGG",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Auger Spree",
+			"CastingCost": "1BR",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Azorius Charm",
+			"CastingCost": "WU",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Call of the Conclave",
+			"CastingCost": "WG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Carnival Hellsteed",
+			"CastingCost": "4BR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Centaur Healer",
+			"CastingCost": "1WG",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Chemister's Trick",
+			"CastingCost": "UR",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Collective Blessing",
+			"CastingCost": "3WGG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Common Bond",
+			"CastingCost": "1WG",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Corpsejack Menace",
+			"CastingCost": "2BG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Counterflux",
+			"CastingCost": "UUR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Coursers' Accord",
+			"CastingCost": "4WG",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Detention Sphere",
+			"CastingCost": "1WU",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Dramatic Rescue",
+			"CastingCost": "WU",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Dreadbore",
+			"CastingCost": "BR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Dreg Mangler",
+			"CastingCost": "1BG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Epic Experiment",
+			"CastingCost": "XUR",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Essence Backlash",
+			"CastingCost": "2UR",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Fall of the Gavel",
+			"CastingCost": "3WU",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Firemind's Foresight",
+			"CastingCost": "5UR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Goblin Electromancer",
+			"CastingCost": "UR",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Golgari Charm",
+			"CastingCost": "BG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Grisly Salvage",
+			"CastingCost": "BG",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Havoc Festival",
+			"CastingCost": "4BR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Hellhole Flailer",
+			"CastingCost": "1BR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Heroes' Reunion",
+			"CastingCost": "WG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Hussar Patrol",
+			"CastingCost": "2WU",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Hypersonic Dragon",
+			"CastingCost": "3UR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Isperia, Supreme Judge",
+			"CastingCost": "2WWUU",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Izzet Charm",
+			"CastingCost": "UR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Izzet Staticaster",
+			"CastingCost": "1UR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Jarad, Golgari Lich Lord",
+			"CastingCost": "BBGG",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Jarad's Orders",
+			"CastingCost": "2BG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Korozda Guildmage",
+			"CastingCost": "BG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Lotleth Troll",
+			"CastingCost": "BG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Loxodon Smiter",
+			"CastingCost": "1WG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Lyev Skyknight",
+			"CastingCost": "1WU",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Mercurial Chemister",
+			"CastingCost": "3UR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "New Prahv Guildmage",
+			"CastingCost": "WU",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Nivix Guildmage",
+			"CastingCost": "UR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Niv-Mizzet, Dracogenius",
+			"CastingCost": "2UURR",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Rakdos Charm",
+			"CastingCost": "BR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Rakdos Ragemutt",
+			"CastingCost": "3BR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Rakdos Ringleader",
+			"CastingCost": "4BR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Rakdos, Lord of Riots",
+			"CastingCost": "BBRR",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Rakdos's Return",
+			"CastingCost": "XBR",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Righteous Authority",
+			"CastingCost": "3WU",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Risen Sanctuary",
+			"CastingCost": "5WG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Rites of Reaping",
+			"CastingCost": "4BG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Rix Maadi Guildmage",
+			"CastingCost": "BR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Search Warrant",
+			"CastingCost": "WU",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Selesnya Charm",
+			"CastingCost": "WG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Skull Rend",
+			"CastingCost": "3BR",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Skymark Roc",
+			"CastingCost": "2WU",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Slaughter Games",
+			"CastingCost": "2BR",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Sluiceway Scorpion",
+			"CastingCost": "2BG",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Spawn of Rix Maadi",
+			"CastingCost": "3BR",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Sphinx's Revelation",
+			"CastingCost": "XWUU",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Supreme Verdict",
+			"CastingCost": "1WWU",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Teleportal",
+			"CastingCost": "UR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Thoughtflare",
+			"CastingCost": "3UR",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Treasured Find",
+			"CastingCost": "BG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Trestle Troll",
+			"CastingCost": "1BG",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Trostani, Selesnya's Voice",
+			"CastingCost": "WWGG",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Vitu-Ghazi Guildmage",
+			"CastingCost": "WG",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Vraska the Unseen",
+			"CastingCost": "3BG",
+			"Set": "RTR",
+			"Rarity": "Mythic Rare"
+		},
+		{
+			"Name": "Wayfaring Temple",
+			"CastingCost": "1WG",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Azor's Elocutors",
+			"CastingCost": "3{W/U}{W/U}",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Blistercoil Weird",
+			"CastingCost": "{U/R}",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Cryptborn Horror",
+			"CastingCost": "1{B/R}{B/R}",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Deathrite Shaman",
+			"CastingCost": "{B/G}",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Dryad Militant",
+			"CastingCost": "{G/W}",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Frostburn Weird",
+			"CastingCost": "{U/R}{U/R}",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Golgari Longlegs",
+			"CastingCost": "3{B/G}{B/G}",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Growing Ranks",
+			"CastingCost": "2{G/W}{G/W}",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Judge's Familiar",
+			"CastingCost": "{W/U}",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Nivmagus Elemental",
+			"CastingCost": "{U/R}",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Rakdos Cackler",
+			"CastingCost": "{B/R}",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Rakdos Shred-Freak",
+			"CastingCost": "{B/R}{B/R}",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Slitherhead",
+			"CastingCost": "{B/G}",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Sundering Growth",
+			"CastingCost": "{G/W}{G/W}",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Vassal Soul",
+			"CastingCost": "1{W/U}{W/U}",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Azorius Keyrune",
+			"CastingCost": "3",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Chromatic Lantern",
+			"CastingCost": "3",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Civic Saber",
+			"CastingCost": "1",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Codex Shredder",
+			"CastingCost": "1",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Golgari Keyrune",
+			"CastingCost": "3",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Izzet Keyrune",
+			"CastingCost": "3",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Pithing Needle",
+			"CastingCost": "1",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Rakdos Keyrune",
+			"CastingCost": "3",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Selesnya Keyrune",
+			"CastingCost": "3",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Street Sweeper",
+			"CastingCost": "6",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Tablet of the Guilds",
+			"CastingCost": "2",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Volatile Rig",
+			"CastingCost": "4",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Azorius Guildgate",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Blood Crypt",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Golgari Guildgate",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Grove of the Guardian",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Hallowed Fountain",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Izzet Guildgate",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Overgrown Tomb",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Rakdos Guildgate",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Rogue's Passage",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Uncommon"
+		},
+		{
+			"Name": "Selesnya Guildgate",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Steam Vents",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Temple Garden",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Rare"
+		},
+		{
+			"Name": "Transguild Promenade",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Common"
+		},
+		{
+			"Name": "Plains",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Plains",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Plains",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Plains",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Plains",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Island",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Island",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Island",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Island",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Island",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Swamp",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Swamp",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Swamp",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Swamp",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Swamp",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Mountain",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Mountain",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Mountain",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Mountain",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Mountain",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Forest",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Forest",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Forest",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Forest",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		},
+		{
+			"Name": "Forest",
+			"CastingCost": "",
+			"Set": "RTR",
+			"Rarity": "Land"
+		}
+	]
+}
